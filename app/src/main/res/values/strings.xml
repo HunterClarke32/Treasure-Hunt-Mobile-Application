@@ -1,0 +1,32 @@
+<!--
+Hunter Clarke
+OSU CS 492
+-->
+
+<resources>
+    <string name="app_name">Treasure</string>
+    <string name="permsRec">Location Permission Required</string>
+    <string name="locPerm">Please grant location permissions to use this app.</string>
+    <string name="treasureHunt">Treasure Hunt</string>
+        <string name="rules_title">Rules:</string>
+        <string name="rule_1">1. Make sure you have PRECISE location services enabled.</string>
+        <string name="rule_2">2. Solve the series of clues to find a destination.</string>
+        <string name="rule_3">3. Each clue will lead you to the next location.</string>
+        <string name="rule_4">4. The final clue will reveal the treasure\'s location.</string>
+        <string name="rule_5">5. Have fun and good luck!</string>
+    <string name="startGame">Start Game</string>
+    <string name="localBoyzDesc">Local Boyz is an easygoing counter-serve offers traditional Hawaiian dishes such as sweet shoyu chicken. Service options: Doesnt accept reservations · High chairs available · Dogs allowed outside Address: 1425 NW Monroe Ave, Corvallis, OR 97330</string>
+    <string name="cont">Continue</string>
+    <string name="complete">Congratulations Treasure Hunt Completed!</string>
+    <string name="reserDesc">Reser Stadium is an outdoor athletic stadium on the campus of Oregon State University in Corvallis, Oregon, United States. The home of the Oregon State Beavers of the Pac-12 Conference, it opened in 1953 as Parker Stadium and was renamed in 1999. Located in: Oregon State University. Address: 660 SW 26th St, Corvallis, OR 97331 </string>
+    <string name="home">Home</string>
+    <string name="foundIt">Click Found It! to check location</string>
+    <string name="showHint">Show Hint</string>
+    <string name="quit">Quit</string>
+    <string name="foundButton">Found It!</string>
+    <string name="clue2">A Place to watch sports</string>
+    <string name="hint2">This sport has 11 players on offence and defence</string>
+    <string name="clue1">The best hawaiian restaurant</string>
+    <string name="hint1">It is located on Monroe Ave</string>
+
+</resources>
